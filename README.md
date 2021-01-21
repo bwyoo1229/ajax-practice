@@ -8,7 +8,7 @@
 
 ## How AJAX works
 
-![diagram] (./images/diagram.png)
+![diagram] (https://github.com/bwyoo1229/ajax-practice/blob/master/images/diagram.png)
 
 ## XmlHttpRequest (XHR) Object
 
