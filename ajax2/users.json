@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Byeonguk",
+    "email": "bwyoo1229@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Kanye",
+    "email": "yeezus@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Elon",
+    "email": "tesla@gmail.com"
+  }
+]
