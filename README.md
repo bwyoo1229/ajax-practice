@@ -39,8 +39,8 @@ _But_, you must need to know how to make a request using **Vanilla JavaScript fi
 
 ## readyState Values
 
-0: request not initialized
-1: server connection established
-2: request received
-3: processing request
-4: request finished and response is ready
+0: request not initialized<br>
+1: server connection established<br>
+2: request received<br>
+3: processing request<br>
+4: request finished and response is ready<br>
