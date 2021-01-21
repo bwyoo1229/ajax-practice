@@ -27,21 +27,18 @@
 - Prototype
 - Node HTTP
 
-### Using libraries are great!
+#### Using libraries are great!
 
-_But_, you must need to know how to make a request using **Vanilla JavaScript first** :)
+_But_, you must need to know how to make a request using **Vanilla JavaScript first!** :)
 
-<hr />
-
-## ajax1
-
-**HTTP Statuses**
+## HTTP Statuses
 
 - 200: "OK"
 - 403: "Forbidden"
-- 404: "Not Found"
+- 404: "Not Found" _404 status is not an error. It is a valid response._
 
-**readyState Values**
+## readyState Values
+
 0: request not initialized
 1: server connection established
 2: request received
